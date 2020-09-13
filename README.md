@@ -21,8 +21,7 @@ e) Test data from external files -> JSON, Xlsx, (DB)
 	1) tests.selenium
 	2) tests.rest 
 
-
-Steps to Implement Makaia for your instance
+Steps to Implement Makaia for your instance:
 
 1) Download https://github.com/Dhanakesavan/Makaia
 2) Extract to your workspace
