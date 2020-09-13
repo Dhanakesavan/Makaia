@@ -4,7 +4,6 @@ c) Maven Project -> Build Tool
 d) Flavors : Page/Service Design (Selenium + RestAssured Base) + Cucumber (With Pages) + Independent (Rest + Se + Rest/Se)
 e) Test data from external files -> JSON, Xlsx, (DB)
 
-
 	Library:  Event Listeners + Wrappers + Data + Report 
 
 	1) listeners -> Customized Solutions (Selenium, TestNg, ExtentReport)
@@ -47,4 +46,4 @@ Steps to Implement Makaia for your instance
 If this is working fine, the next step will be !
 
 a) Change it to your environment using config.properties
-b) Build another test for Create Change Request ..
+b) Build another test for Create Change Request.
