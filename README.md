@@ -25,7 +25,7 @@ e) Test data from external files -> JSON, Xlsx, (DB)
 
 Steps to Implement Makaia for your instance
 
-1) Download https://github.com/TestLeafInc/Makaia
+1) Download https://github.com/Dhanakesavan/Makaia
 2) Extract to your workspace
 3) Import the project (Makaia)
 4) Once fully imported, confirm there are no errors !!
